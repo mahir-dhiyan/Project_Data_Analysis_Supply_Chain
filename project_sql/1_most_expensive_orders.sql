@@ -1,6 +1,6 @@
 SELECT 
-    order_items.order_id,
     products.product_category_name,
+    order_items.order_id,
     order_items.price,
     order_items.freight_value,
     order_items.seller_id
