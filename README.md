@@ -196,7 +196,9 @@ By leveraging SQL and data visualization techniques, this project demonstrates h
 
 **Mahir Dhiyan Chowdhury**
 
-💼 Aspiring Data Analyst | Operations & Supply Chain Enthusiast | Engineer
+💼 Operations & Supply Chain Enthusiast | Data Analysis | Engineering Sales | Engineer
+
+🌐 Website: https://www.mahirdhiyan.me
 
 🔗 GitHub: https://github.com/mahir-dhiyan
 
